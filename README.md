@@ -1,4 +1,4 @@
-# Projeto de LP
-Este projeto consiste no desenvolvimento de um programa em Prolog que permite resolver puzzles "Tendas e Árvores". 
+# Logic for Programming Project
+This project consists of developing a program in Prolog that solves "Tents and Trees" puzzles.
 
-Avaliacao: 19.2/20
+Grade: 19.2/20
